@@ -1,2 +1,0 @@
-# DATA200-LAB
-Python LAB
