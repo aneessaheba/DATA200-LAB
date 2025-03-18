@@ -1,0 +1,6 @@
+grade_id,grade,marks_range
+G1,A,90-100
+G2,B,80-89
+G3,C,70-79
+G4,D,60-69
+G5,F,0-40

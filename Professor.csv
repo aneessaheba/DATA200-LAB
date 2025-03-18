@@ -1,0 +1,11 @@
+Professor_id,Professor_Name,Rank,Course_id,Email
+P001,Micheal John,Senior Professor,DATA200,micheal@mycsu.edu
+P002,Susan Clark,Associate Professor,CS101,susan@mycsu.edu
+P003,Robert Smith,Assistant Professor,MATH150,robert@mycsu.edu
+P004,Emily Davis,Professor,STAT210,emily@mycsu.edu
+P005,James Brown,Senior Professor,AI300,james@mycsu.edu
+P006,Olivia Wilson,Associate Professor,ML250,olivia@mycsu.edu
+P007,William Taylor,Assistant Professor,BIO110,william@mycsu.edu
+P008,Emma Martinez,Professor,CHEM101,emma@mycsu.edu
+P009,Liam Anderson,Senior Professor,PHYS200,liam@mycsu.edu
+P010,Ava Thomas,Associate Professor,ECON220,ava@mycsu.edu
